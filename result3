@@ -1,0 +1,6 @@
+PS C:\Users\Сумрак\PycharmProjects\pythonProject> python -m unittest issue3.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
